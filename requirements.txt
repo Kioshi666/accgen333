@@ -1,0 +1,9 @@
+secmail
+requests
+amino.fix
+colorama
+pyfiglet
+bs4
+Image
+heroku3
+names
